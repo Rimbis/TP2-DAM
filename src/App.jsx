@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import Titulo from './componentes/Titulo.jsx'
-import Frutotas from './componentes/Frutotas.jsx'
 import Lista from './componentes/Lista.jsx'
 import './App.css'
 
